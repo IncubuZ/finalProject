@@ -1,0 +1,162 @@
+-webkit-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+
+.controlgroup-textinput{
+    padding-top:.22em;
+    padding-bottom:.22em;
+}
+#miniProdetail {
+	width: 60%;
+}
+
+
+.custom-corners .ui-bar {
+  -webkit-border-top-left-radius: inherit;
+  border-top-left-radius: inherit;
+  -webkit-border-top-right-radius: inherit;
+  border-top-right-radius: inherit;
+}
+.custom-corners .ui-body {
+  border-top-width: 0;
+  -webkit-border-bottom-left-radius: inherit;
+  border-bottom-left-radius: inherit;
+  -webkit-border-bottom-right-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+#custom-border-radius .ui-btn-icon-notext.ui-corner-all {
+    -webkit-border-radius: .3125em;
+    border-radius: .3125em;
+}
+#ButtonGroup {
+	clear: both;
+	float: none;
+	width: 200px;
+	display: block;
+	margin: auto;
+	position: relative;
+	height: auto;
+	padding-top: 1em;
+}
+#logo {
+	clear: both;
+	float: none;
+	margin-left: auto;
+	width: 100%;
+	display: block;
+	margin-top: 15%;
+	margin-right: auto;
+	margin-bottom: auto;
+	position: relative;
+	height: auto;
+}
+#imgPropic {
+	border: 1px solid #000;
+	height: 130px;
+	width: 130px;
+	margin-right: 2em;
+	margin-bottom: 1em;
+	margin-left: 2em;
+	margin-top: 1px;
+}
+#imgEditPropic {
+	border: 1px solid #000;
+	height: 130px;
+	width: 130px;
+	margin-right: 2em;
+	margin-bottom: 2em;
+	margin-left: 2em;
+	margin-top: 0px;
+}
+#cameraImage {
+	width: 100%;
+	height: 50%;
+	
+	display: block;
+	visibility: hidden;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 1em;
+	margin-left: auto;
+    }
+#map {
+	width: 100%;
+	height: 50%;
+
+ 	display: block;
+ 	visibility: hidden; 
+	margin: 1.0em auto; 
+}
+
+#miniPropic {
+	width: 80px;
+	margin-right: 1em;
+	margin-top: 0.5em;
+	margin-bottom: auto;
+	margin-left: auto;
+	}
+#imgReport {
+	width: 100%;
+	height: 50%;
+	
+	display: block;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 1em;
+	margin-left: auto;
+    }
+#imgMapReport {
+	width: 100%; 
+	height: 50%; 
+	
+ 	display: block;
+	margin: 1.0em auto; 
+}
+#miniReportdetail {
+    width: 60%;
+}
+#miniPropicHome {
+    width: 40px;
+    margin-right: 1em;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+span#spContent{  
+    word-wrap:break-word;  
+}  
+#imgOtherPropic {
+	border: 1px solid #000;
+	height: 130px;
+	width: 130px;
+	margin-right: 2em;
+	margin-bottom: 1em;
+	margin-left: 2em;
+	margin-top: 1px;
+}
+
+/*.hidden {
+    position: absolute;
+    top:-999;
+    z-index: -9999;
+}*/
+/*.ui-content {
+    padding: 0;
+}*/
+/*.mapcontent {
+    padding: 0;
+}
+.forMap {
+    position: absolute;
+    top:0;
+    right:0;
+}*/
+#mapPage, #map-canvas { width: 100%; height: 100%; padding: 0;}
+
+.viewer { height: 320px; width: 100%; }
+[data-role="content"] {
+	max-width: 500px;
+	margin: auto;	
+	
+	}
+.ui-filter-inset {
+    margin-top: 0;
+}

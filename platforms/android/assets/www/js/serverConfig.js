@@ -1,0 +1,1 @@
+localStorage.serviceURL = "http://situationreport.meximas.com/services/";
